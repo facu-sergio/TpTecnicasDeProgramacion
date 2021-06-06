@@ -1,0 +1,17 @@
+C:\Users\zunil\source\repos\Login\Loggin\bin\Debug\netcoreapp3.1\Login.exe
+C:\Users\zunil\source\repos\Login\Loggin\bin\Debug\netcoreapp3.1\Login.deps.json
+C:\Users\zunil\source\repos\Login\Loggin\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+C:\Users\zunil\source\repos\Login\Loggin\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+C:\Users\zunil\source\repos\Login\Loggin\bin\Debug\netcoreapp3.1\Login.dll
+C:\Users\zunil\source\repos\Login\Loggin\bin\Debug\netcoreapp3.1\Login.pdb
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Login.csprojAssemblyReference.cache
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Login.Properties.Resources.resources
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Login.csproj.GenerateResource.cache
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Login.dll
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Login.pdb
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Login.Administrador.resources
+C:\Users\zunil\source\repos\Login\Loggin\obj\Debug\netcoreapp3.1\Loggin.Login.resources
