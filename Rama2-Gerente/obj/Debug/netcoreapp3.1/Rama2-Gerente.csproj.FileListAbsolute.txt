@@ -13,3 +13,4 @@ D:\Repositorio\Rama2-Gerente\obj\Debug\netcoreapp3.1\Rama2-Gerente.csproj.CoreCo
 D:\Repositorio\Rama2-Gerente\obj\Debug\netcoreapp3.1\Rama2-Gerente.dll
 D:\Repositorio\Rama2-Gerente\obj\Debug\netcoreapp3.1\Rama2-Gerente.pdb
 D:\Repositorio\Rama2-Gerente\obj\Debug\netcoreapp3.1\Rama2-Gerente.genruntimeconfig.cache
+D:\Repositorio\Rama2-Gerente\obj\Debug\netcoreapp3.1\Rama2_Gerente.Form2.resources
